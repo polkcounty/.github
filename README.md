@@ -1,2 +1,3 @@
 # .github
-Default GitHub community health files
+
+GitHub community health files for [@polkcounty](https://github.com/polkcounty).
