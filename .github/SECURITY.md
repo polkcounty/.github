@@ -4,6 +4,6 @@ If you believe you have found a security vulnerability, we encourage you to let 
 
 We will investigate all legitimate reports and do our best to quickly fix the problem.
 
-Email [support@polk-county.net](mailto:support@polk-county.net) to disclose any security vulnerabilities.
+To privately disclose a security vulnerability, create a security advisory in the affected repository by visiting the `Advisories` section under the `Security` tab.
 
 :warning: **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
